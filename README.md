@@ -51,7 +51,7 @@ The dataset used for this project is **Investment_df_cleaned.csv**, which was pr
 
 3. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 4. Access the dashboard in your browser at `http://localhost:8501`.
